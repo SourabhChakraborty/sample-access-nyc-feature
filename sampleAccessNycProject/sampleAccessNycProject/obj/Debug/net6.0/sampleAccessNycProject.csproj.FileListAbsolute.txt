@@ -1,0 +1,8 @@
+/Users/sourabhchakraborty/Code/sample-access-nyc-feature/sampleAccessNycProject/sampleAccessNycProject/obj/Debug/net6.0/sampleAccessNycProject.csproj.AssemblyReference.cache
+/Users/sourabhchakraborty/Code/sample-access-nyc-feature/sampleAccessNycProject/sampleAccessNycProject/obj/Debug/net6.0/sampleAccessNycProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sourabhchakraborty/Code/sample-access-nyc-feature/sampleAccessNycProject/sampleAccessNycProject/obj/Debug/net6.0/sampleAccessNycProject.AssemblyInfoInputs.cache
+/Users/sourabhchakraborty/Code/sample-access-nyc-feature/sampleAccessNycProject/sampleAccessNycProject/obj/Debug/net6.0/sampleAccessNycProject.AssemblyInfo.cs
+/Users/sourabhchakraborty/Code/sample-access-nyc-feature/sampleAccessNycProject/sampleAccessNycProject/obj/Debug/net6.0/sampleAccessNycProject.csproj.CoreCompileInputs.cache
+/Users/sourabhchakraborty/Code/sample-access-nyc-feature/sampleAccessNycProject/sampleAccessNycProject/obj/Debug/net6.0/sampleAccessNycProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/sourabhchakraborty/Code/sample-access-nyc-feature/sampleAccessNycProject/sampleAccessNycProject/obj/Debug/net6.0/sampleAccessNycProject.RazorAssemblyInfo.cache
+/Users/sourabhchakraborty/Code/sample-access-nyc-feature/sampleAccessNycProject/sampleAccessNycProject/obj/Debug/net6.0/sampleAccessNycProject.RazorAssemblyInfo.cs
