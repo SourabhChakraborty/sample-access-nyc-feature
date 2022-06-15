@@ -8,8 +8,12 @@
 
   <ItemGroup>
     <None Remove="Autofac" />
+    <None Remove="ApplicationLogic\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Autofac" Version="6.4.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ApplicationLogic\" />
   </ItemGroup>
 </Project>
