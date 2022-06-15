@@ -9,11 +9,15 @@
   <ItemGroup>
     <None Remove="Autofac" />
     <None Remove="ApplicationLogic\" />
+    <None Remove="Startup\" />
+    <None Remove="Autofac.Extensions.DependencyInjection" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Autofac" Version="6.4.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="8.0.0" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ApplicationLogic\" />
+    <Folder Include="Startup\" />
   </ItemGroup>
 </Project>

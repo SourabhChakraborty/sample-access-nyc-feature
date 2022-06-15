@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vFj2Z/ON/VfVWOeD7u5bIJLeipe3mquUlV8LwCOEc0S8U39RyChoAKxUnXwR2SUJ10vFGY9y5VvgCu/9XUWGCQ==",
+  "dgSpecHash": "IqZ+wKzfejBu76ZrLy/OrfsjeYgon79HPn9IQ93P7Eu/77cMr0qCnOeYj2owGuLPSU4+SWUfsK+J9ylDmNtnxA==",
   "success": true,
   "projectFilePath": "/Users/sourabhchakraborty/Code/sample-access-nyc-feature/sampleAccessNycProject/sampleAccessNycProject/sampleAccessNycProject.csproj",
   "expectedPackageFiles": [
     "/Users/sourabhchakraborty/.nuget/packages/autofac/6.4.0/autofac.6.4.0.nupkg.sha512",
+    "/Users/sourabhchakraborty/.nuget/packages/autofac.extensions.dependencyinjection/8.0.0/autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/sourabhchakraborty/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "/Users/sourabhchakraborty/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
