@@ -3,9 +3,9 @@ using sampleAccessNycProject.Models;
 
 namespace sampleAccessNycProject.ApplicationLogic
 {
-	public interface IFormRenewalRetriever
+	public interface IProgramRenewalRetriever
 	{
-		public FormRenewalModel GetFormRenewal(long userId);
+		public ProgramRenewalModel GetProgramRenewal(long userId);
 	}
 }
 

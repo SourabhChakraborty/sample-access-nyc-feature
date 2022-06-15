@@ -1,9 +1,11 @@
 ﻿using System;
 namespace sampleAccessNycProject.Models
 {
-	// TODO: add some form types
-	public enum FormType
+	public enum ProgramType
 	{
+		SNAP = 1,
+		Medicaid = 2,
+		ERAP = 3
 	}
 }
 
