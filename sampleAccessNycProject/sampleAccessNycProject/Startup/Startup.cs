@@ -9,7 +9,7 @@ namespace sampleAccessNycProject.Startup
 	{
 		public void ConfigureContainer(ContainerBuilder builder)
 		{
-			builder.RegisterType<SNAPFormRenewalRetriever>().Keyed<FormType>(FormType.SNAP);
+			builder.RegisterType<SNAPProgramRenewalRetriever>().Keyed<ProgramType>(ProgramType.SNAP);
 		}
 	}
 }
