@@ -18,7 +18,7 @@ namespace sampleAccessNycProject.ApplicationLogic
 			var programTypes = this.GetUsersProgramTypes(userId);
 
 			return programTypes
-				.Select(programType => this._programRenewalRetrieverIndex[programType].GetProgramRenewal(userId))
+				.Select(programType => this._programRenewalRetrieverIndex[programType].GetProgramRenewalInformation(userId))
 				.ToList();
 		}
 
